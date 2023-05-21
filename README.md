@@ -128,7 +128,7 @@ Sales over the weekends generated a total of $9.84M revenue from 51,000 orders r
 
 # Visualization
 
-Click [here]() to download the full interactive dashboard
+Click [here](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/blob/main/Sales%20Report.pbix) to download the full interactive dashboard
 
 ![image](https://github.com/Ernest-30/D-and-D-Electronics-Store-Sales-Analysis/assets/123366282/cecee21e-5e3f-4a44-9c74-00385fb56fe4)
 
